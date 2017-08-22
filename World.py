@@ -2,7 +2,6 @@ import numpy as np
 import random
 import operator
 import matplotlib.pyplot as plt
-from Piece import *
 import copy
 
 class World:
